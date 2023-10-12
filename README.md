@@ -1,2 +1,2 @@
-# reactTemplate
-React app with server and all that jazz.
+# Character Builder for a LARP
+Gonna see if I can do the thing.
